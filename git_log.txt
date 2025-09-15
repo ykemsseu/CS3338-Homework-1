@@ -1,0 +1,5 @@
+Git log not available from GitHub Web.
+
+All commits and branches can be viewed directly on GitHub under:
+- Commits tab: https://github.com/ykemsseu/CS3338-Homework-1/commits/main
+- Branches tab: https://github.com/ykemsseu/CS3338-Homework-1/branches
